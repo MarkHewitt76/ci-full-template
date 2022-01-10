@@ -6,7 +6,7 @@ You can check out the website [here](https://markhewitt76.github.io/ci-full-temp
 
 ## Description
 
-This site was created in order to get familiar with common development tools like [Cloud9](https://en.wikipedia.org/wiki/Cloud9), [Git](https://git-scm.com) & [GitHub](https://github.com), and how to use them to write and manage code. The project itself will display a breakdown of the different technologies used in each of the different sections of the program
+This site was created in order to get familiar with common development tools like [Cloud9](https://en.wikipedia.org/wiki/Cloud9_IDE), [Git](https://git-scm.com) & [GitHub](https://github.com), and how to use them to write and manage code. The project itself will display a breakdown of the different technologies used in each of the different sections of the program
 
 ## Content
 
